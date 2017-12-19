@@ -1,0 +1,11 @@
+{
+    "app": {
+        "port": 8081
+    }, 
+    "db": {
+        "host": "localhost",
+        "port": "27017",
+        "name": "jsonwebtoken"
+    },
+    "secret": "itdrisNkmy85beSostUse89cr54et74"
+}

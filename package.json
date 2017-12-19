@@ -1,0 +1,27 @@
+{
+  "name": "json-web-authentication",
+  "version": "1.0.0",
+  "description": "Token Based Authentication",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hotam-singh/token-based-authentication.git"
+  },
+  "author": "Hotam Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hotam-singh/token-based-authentication/issues"
+  },
+  "homepage": "https://github.com/hotam-singh/token-based-authentication#readme",
+  "dependencies": {
+    "async": "^2.6.0",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "jsonwebtoken": "^8.1.0",
+    "mongodb": "^3.0.0-rc0",
+    "mongoose": "^4.13.7"
+  }
+}
